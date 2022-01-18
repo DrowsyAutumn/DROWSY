@@ -172,7 +172,7 @@ input, select, textarea {
 	}
 
 	em, i {
-		font-style: italic;
+		font-style: bold;
 	}
 
 	p {
